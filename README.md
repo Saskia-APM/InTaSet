@@ -1,4 +1,6 @@
-**InTaSet** is a comprehensive benchmark dataset for nonlinear system identification and sensor-fault detection based on real-time measurements from a physical interconnected quadruple-tank testbed, operating in both open-loop and closed-loop configurations.
+**What is it?**
+
+The Interconnected Tank System Dataset (**InTaSet**) is a comprehensive benchmark dataset for nonlinear system identification and sensor-fault detection, based on real-time measurements from a physical interconnected quadruple-tank testbed operating in both open-loop and closed-loop configurations.
 
 <img width="2977" height="2530" alt="mainlayout" src="https://github.com/user-attachments/assets/c767b670-6737-4e9c-b758-8ede5ddd06e2" />
 
